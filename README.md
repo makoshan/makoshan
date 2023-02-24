@@ -16,6 +16,7 @@ Blog:
 - :fire: 带壳截图 :一款 iOS 和 Android 手机 App，功能为图片增加不同的手机壳。
 - :fire: Token Profile: 参与开发，Crypto token 的介绍信息，项目方通过 PR
   的方式提交：https://github.com/consenlabs/token-profile
+- :fire: Field Trip: 杭州城市探索地图可视化
 
 ### 我的技术栈
 
